@@ -1,6 +1,7 @@
-C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\src\main\java\com\pluralsight\service\SpeakerServiceImpl.java
-C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\src\main\java\com\pluralsight\model\Speaker.java
-C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\src\main\java\com\pluralsight\service\SpeakerService.java
-C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\src\main\java\Application.java
-C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\src\main\java\com\pluralsight\repository\SpeakerRepository.java
-C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\src\main\java\com\pluralsight\repository\HibernateSpeakerRepositoryImpl.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\com\pluralsight\model\Speaker.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\com\pluralsight\service\SpeakerServiceImpl.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\com\pluralsight\service\SpeakerService.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\Application.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\AppConfig.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\com\pluralsight\repository\SpeakerRepository.java
+C:\Users\onurs\Desktop\OpenSource\OnurSevket\conference-springapp\spring-fundamentals\src\main\java\com\pluralsight\repository\HibernateSpeakerRepositoryImpl.java
